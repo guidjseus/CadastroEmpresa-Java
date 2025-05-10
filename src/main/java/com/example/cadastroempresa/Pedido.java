@@ -61,5 +61,5 @@ public class Pedido {
         listaProdutos.remove(produto);
         calcularTotal();
     }
-
+     //teste
 }
